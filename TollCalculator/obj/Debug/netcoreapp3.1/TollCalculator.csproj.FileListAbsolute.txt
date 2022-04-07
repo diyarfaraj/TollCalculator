@@ -1,0 +1,4 @@
+C:\Users\User\Desktop\TollCalculator\TollCalculator\obj\Debug\netcoreapp3.1\TollCalculator.csprojAssemblyReference.cache
+C:\Users\User\Desktop\TollCalculator\TollCalculator\obj\Debug\netcoreapp3.1\TollCalculator.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\TollCalculator\TollCalculator\obj\Debug\netcoreapp3.1\TollCalculator.AssemblyInfo.cs
+C:\Users\User\Desktop\TollCalculator\TollCalculator\obj\Debug\netcoreapp3.1\TollCalculator.csproj.CoreCompileInputs.cache
