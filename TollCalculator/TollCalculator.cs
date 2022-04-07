@@ -13,14 +13,7 @@ namespace TollCalculator
         {
             _holidayService = holidayService;
         }
-        /**
-         * Calculate the total toll fee for one day
-         *
-         * @param vehicle - the vehicle
-         * @param dates   - date and time of all passes on one day
-         * @return - the total toll fee for that day
-         */
-
+ 
         public int GetVehicleTollFee(IVehicle vehicle, DateTime[] dates)
         {
             DateTime intervalStart = dates[0];
